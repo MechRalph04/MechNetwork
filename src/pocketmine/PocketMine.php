@@ -74,7 +74,7 @@ namespace pocketmine {
 
 	const VERSION = "1.1.1";
 	const API_VERSION = "3.0.0-ALPHA4";
-	const CODENAME = "Ruby";
+	const CODENAME = "Mech";
 
 	/*
 	 * Startup code. Do not look at it, it may harm you.
