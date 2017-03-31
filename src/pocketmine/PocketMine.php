@@ -72,7 +72,7 @@ namespace pocketmine {
 	use pocketmine\utils\Utils;
 	use pocketmine\wizard\Installer;
 
-	const VERSION = "1.1.1";
+	const VERSION = "1.1.2";
 	const API_VERSION = "3.0.0-ALPHA4";
 	const CODENAME = "Mech";
 
